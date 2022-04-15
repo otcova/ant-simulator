@@ -1,0 +1,3 @@
+const GL_TRIANGLES = 4;
+const GL_TRIANGLE_STRIP = 5;
+const GL_TRIANGLE_FAN = 6;
